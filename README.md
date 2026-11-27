@@ -2,4 +2,3 @@
 
 https://ssoooyeon98-commits.github.io/portfolio/
 
-서비스 기획자용: https://ssoooyeon98-commits.github.io/test.repo/planner.html
